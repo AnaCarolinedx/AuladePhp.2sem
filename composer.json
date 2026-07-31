@@ -1,8 +1,9 @@
 {
     "name": "admin/aulade-php.2sem",
+    "type": "project",
     "autoload": {
         "psr-4": {
-            "Admin\\AuladePhp2sem\\": "src/"
+            "App\\": "src/"
         }
     },
     "require": {}

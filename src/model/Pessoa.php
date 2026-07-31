@@ -1,6 +1,6 @@
 <?php
 
-echo "<h1>Classe Pessoa</h1>";
+namespace App\model;
 
 class Pessoa {
 

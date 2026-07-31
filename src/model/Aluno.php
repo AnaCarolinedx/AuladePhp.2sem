@@ -1,6 +1,6 @@
 <?php
 
-echo "<h1>Classe Aluno</h1>";
+namespace App\model;
 
 class Aluno {
 
